@@ -1,0 +1,2 @@
+# fulaibofile
+cdn加速
